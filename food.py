@@ -1,5 +1,6 @@
 # Import the MenuItem class using 'from' 'import'
-from menu_item import MenuItemfrom menu_item import MenuItem
+from menu_item import MenuItem
+from menu_item import MenuItem
 
 # Inherit the MenuItem class and define the Food class
 # here we have overide the info and init funct of menu_item
