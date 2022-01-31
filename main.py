@@ -1,5 +1,6 @@
 # Import the Food class and Drink class
-from menu_item import MenuItemfrom food import Food
+from menu_item import MenuItem
+from food import Food
 from drink import Drink
 
 # Create an instance of the Food class and assign it to the food variables
